@@ -15,7 +15,7 @@ As a senior developer, I can assure you the perfect result on time.
   <img align="right" alt="GIF" src="https://fuertedevelopers.in/wp-content/uploads/2020/08/aboutus.gif" width="500" height="320" />
 </div>
     
-- 📝 Skype : live:.cid.930aaf0b06b3baf6
+- 📝 <b>Skype : live:.cid.930aaf0b06b3baf6</b>
 
 
 
