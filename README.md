@@ -2,9 +2,11 @@
   
   <br />
   
-  I'm a Senior Full-Stack Developer.
+  I'm a Senior Full-Stack & Blockchain Developer.
 
 I have rich experience in React, Vue.js, Node.js, Laravel and Python.
+
+Also I have built lots of NFT, Swap and cryptocurrencies.
 
 I have led many projects to successfully.
 
