@@ -12,9 +12,6 @@ I can assure you the perfect result on time.
  <div>
   <img align="right" alt="GIF" src="https://fuertedevelopers.in/wp-content/uploads/2020/08/aboutus.gif" width="500" height="320" />
 </div>
-    
-- 📝 <b>Skype : live:.cid.84faec475a04bc9e</b>
-
 
 
 **Languages and Tools:**  
